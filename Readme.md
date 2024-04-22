@@ -6,3 +6,4 @@ You must have access to the log files you want to analyze. These can be applicat
 Permissions: Make sure you have the necessary permissions to read the log files. If the log files are located in system directories or belong to another user, you may need elevated privileges or permission from the file owner. (Use chmod+X #filename before running the shell script. This will make the file executable.)
 Usage: Run the script by entering ./filename
 
+“This implementation represents the best of my knowledge.”
